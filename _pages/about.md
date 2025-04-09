@@ -21,9 +21,8 @@ Publications
   <div class="pub_img" style="width:270px; object-fit:cover;">
     <img src="{{ base_path }}/images/FIM.png" alt="MCLNF Overview">
   </div>
-  <div class="pub_detail" style="margin-left:10px; max-width:300px">
-    <p style="font-size:13px; margin-bottom:2px"><b>Seungyoon Woo</b>, Junhyeog Yun, Gunhee Kim</p>
-    <p style="font-size:13px; margin-bottom:2px">ICLR 2025</p>
+  <div class="pub_detail" style="margin-left:10px; max-width:340px">
+    <p style="font-size:13px; margin-bottom:2px"><b>Seungyoon Woo</b>, Junhyeog Yun, Gunhee Kim. ICLR 2025</p>
     <p style="font-size:13px; margin-bottom:2px">This work addresses Meta-Continual Learning of Neural Fields (MCL-NF), a novel framework that combines modular architecture with optimization-based meta-learning to enhance the continual learning of neural fields. The framework employs Fisher Information Maximization Loss to optimize learning generalization and resource efficiency, particularly in resource-constrained environments.</p>
   </div>
 </div>
