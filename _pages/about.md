@@ -32,7 +32,3 @@ Education
 <p style="font-size:15px; margin-bottom:2px"><b>M.S/Ph.D in Graduate School of AI (2022.9 - )</b></p>
 <p style="font-size:15px; margin-bottom:2px">Seoul National University</p>
 <p style="font-size:15px; margin-bottom:12px">Advisor: Gunhee Kim</p>
-
-<p style="font-size:15px; margin-bottom:2px"><b>B.S. in Computer Science Engineering (2017.3 - 2022.2)</b></p>
-<p style="font-size:15px; margin-bottom:2px">Hanyang University</p>
-<p style="font-size:15px; margin-bottom:10px">GPA: 4.0/4.5</p>
