@@ -21,7 +21,7 @@ repository               : "seungyoon-woo/seungyoon-woo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "avatar-black.png"
   name             : "Seungyoon Woo"
   pronouns         : # "he/him"
   bio              : "PhD student in Graduate School of AI @ SNU"
